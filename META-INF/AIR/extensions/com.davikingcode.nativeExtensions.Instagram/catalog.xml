@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<swc xmlns="http://www.adobe.com/flash/swccatalog/9">
+    <versions>
+        <swc version="1.2"/>
+        <compiler name="ActionScript Compiler" version="2.0.0" build="354154"/>
+    </versions>
+    <features>
+        <feature-script-deps/>
+    </features>
+    <libraries>
+        <library path="library.swf">
+            <script name="com/davikingcode/nativeExtensions/instagram/Instagram" mod="1417596790000">
+                <def id="com.davikingcode.nativeExtensions.instagram:Instagram"/>
+                <dep id="Boolean" type="s"/>
+                <dep id="Error" type="e"/>
+                <dep id="Function" type="s"/>
+                <dep id="Object" type="s"/>
+                <dep id="String" type="s"/>
+                <dep id="com.davikingcode.nativeExtensions.instagram:InstagramEvent" type="e"/>
+                <dep id="flash.display:BitmapData" type="s"/>
+                <dep id="flash.display:BitmapDataChannel" type="e"/>
+                <dep id="flash.events:EventDispatcher" type="i"/>
+                <dep id="flash.events:StatusEvent" type="s"/>
+                <dep id="flash.external:ExtensionContext" type="s"/>
+                <dep id="flash.geom:Point" type="e"/>
+            </script>
+            <script name="com/davikingcode/nativeExtensions/instagram/InstagramEvent" mod="1404119561000">
+                <def id="com.davikingcode.nativeExtensions.instagram:InstagramEvent"/>
+                <dep id="Boolean" type="s"/>
+                <dep id="String" type="s"/>
+                <dep id="flash.events:Event" type="i"/>
+            </script>
+            <digests>
+                <digest type="SHA-256" signed="false" value="2b2c431f1045607aff4e5c149099c13d553cf406ffe0d232c5a8e88144b0e9e0"/>
+            </digests>
+        </library>
+    </libraries>
+</swc>

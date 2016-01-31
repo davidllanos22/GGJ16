@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding ="utf-8"?>
+<swc xmlns="http://www.adobe.com/flash/swccatalog/9">
+  <versions>
+    <swc version="1.2" />
+    <flex version="4.6.0" build="23201" minimumSupportedVersion="3.0.0" />
+  </versions>
+  <features>
+    <feature-script-deps />
+    <feature-files />
+  </features>
+  <libraries>
+    <library path="library.swf">
+      <script name="com/milkmangames/nativeextensions/ios/GCSignatureVerificationData" mod="1434174679564" signatureChecksum="2998555959" >
+        <def id="com.milkmangames.nativeextensions.ios:GCSignatureVerificationData" /> 
+        <dep id="AS3" type="n" /> 
+        <dep id="Object" type="i" /> 
+      </script>
+      <script name="com/milkmangames/nativeextensions/ios/GCImageSize" mod="1411197001950" signatureChecksum="1240085123" >
+        <def id="com.milkmangames.nativeextensions.ios:GCImageSize" /> 
+        <dep id="AS3" type="n" /> 
+        <dep id="Object" type="i" /> 
+      </script>
+      <script name="com/milkmangames/nativeextensions/ios/GCPlayerScope" mod="1355383243814" signatureChecksum="639448455" >
+        <def id="com.milkmangames.nativeextensions.ios:GCPlayerScope" /> 
+        <dep id="AS3" type="n" /> 
+        <dep id="Object" type="i" /> 
+      </script>
+      <script name="com/milkmangames/nativeextensions/ios/events/GameCenterErrorEvent" mod="1434175817801" signatureChecksum="4074074232" >
+        <def id="com.milkmangames.nativeextensions.ios.events:GameCenterErrorEvent" /> 
+        <dep id="flash.events:Event" type="s" /> 
+        <dep id="AS3" type="n" /> 
+        <dep id="flash.events:ErrorEvent" type="i" /> 
+      </script>
+      <script name="com/milkmangames/nativeextensions/ios/GCAchievementData" mod="1361927846103" signatureChecksum="1807311616" >
+        <def id="com.milkmangames.nativeextensions.ios:GCAchievementData" /> 
+        <dep id="AS3" type="n" /> 
+        <dep id="Object" type="i" /> 
+      </script>
+      <script name="com/milkmangames/nativeextensions/ios/GCLeaderboardData" mod="1361926848024" signatureChecksum="1807173622" >
+        <def id="com.milkmangames.nativeextensions.ios:GCLeaderboardData" /> 
+        <dep id="AS3" type="n" /> 
+        <dep id="Object" type="i" /> 
+      </script>
+      <script name="com/milkmangames/nativeextensions/ios/events/GameCenterEvent" mod="1434175642347" signatureChecksum="500866753" >
+        <def id="com.milkmangames.nativeextensions.ios.events:GameCenterEvent" /> 
+        <dep id="com.milkmangames.nativeextensions.ios:GCPlayerData" type="s" /> 
+        <dep id="com.milkmangames.nativeextensions.ios:GCLeaderboardData" type="s" /> 
+        <dep id="flash.display:BitmapData" type="s" /> 
+        <dep id="com.milkmangames.nativeextensions.ios:GCScoreData" type="s" /> 
+        <dep id="__AS3__.vec:Vector" type="s" /> 
+        <dep id="com.milkmangames.nativeextensions.ios:GCChallengeInfo" type="s" /> 
+        <dep id="com.milkmangames.nativeextensions.ios:GCAchievementData" type="s" /> 
+        <dep id="com.milkmangames.nativeextensions.ios:GCSignatureVerificationData" type="s" /> 
+        <dep id="com.milkmangames.nativeextensions.ios:GCAchievementProgress" type="s" /> 
+        <dep id="AS3" type="n" /> 
+        <dep id="flash.events:Event" type="i" /> 
+      </script>
+      <script name="com/milkmangames/nativeextensions/ios/GCPlayerData" mod="1361926487177" signatureChecksum="41243235" >
+        <def id="com.milkmangames.nativeextensions.ios:GCPlayerData" /> 
+        <dep id="AS3" type="n" /> 
+        <dep id="Object" type="i" /> 
+      </script>
+      <script name="com/milkmangames/nativeextensions/ios/GCScoreData" mod="1411199492394" signatureChecksum="1765897876" >
+        <def id="com.milkmangames.nativeextensions.ios:GCScoreData" /> 
+        <dep id="Date" type="s" /> 
+        <dep id="AS3" type="n" /> 
+        <dep id="Object" type="i" /> 
+      </script>
+      <script name="com/milkmangames/nativeextensions/ios/GCChallengeInfo" mod="1377727755120" signatureChecksum="3676212501" >
+        <def id="com.milkmangames.nativeextensions.ios:GCChallengeInfo" /> 
+        <dep id="com.milkmangames.nativeextensions.ios:GCChallengeType" type="e" /> 
+        <dep id="Date" type="s" /> 
+        <dep id="AS3" type="n" /> 
+        <dep id="Object" type="i" /> 
+      </script>
+      <script name="com/milkmangames/nativeextensions/ios/GCChallengeType" mod="1377667745188" signatureChecksum="575681933" >
+        <def id="com.milkmangames.nativeextensions.ios:GCChallengeType" /> 
+        <dep id="AS3" type="n" /> 
+        <dep id="Object" type="i" /> 
+      </script>
+      <script name="_17b149ee1a8088d57deb086ad108594ef67eec1ba7f3b699b7d815d2a06bbc0d_flash_display_Sprite" mod="1434176275882" signatureChecksum="1236499393" >
+        <def id="_17b149ee1a8088d57deb086ad108594ef67eec1ba7f3b699b7d815d2a06bbc0d_flash_display_Sprite" /> 
+        <dep id="flash.system:Security" type="e" /> 
+        <dep id="AS3" type="n" /> 
+        <dep id="flash.display:Sprite" type="i" /> 
+      </script>
+      <script name="com/milkmangames/nativeextensions/ios/GCChallengeState" mod="1377668304480" signatureChecksum="1732725624" >
+        <def id="com.milkmangames.nativeextensions.ios:GCChallengeState" /> 
+        <dep id="AS3" type="n" /> 
+        <dep id="Object" type="i" /> 
+      </script>
+      <script name="com/milkmangames/nativeextensions/ios/GCAchievementProgress" mod="1361933745221" signatureChecksum="949776899" >
+        <def id="com.milkmangames.nativeextensions.ios:GCAchievementProgress" /> 
+        <dep id="Date" type="s" /> 
+        <dep id="AS3" type="n" /> 
+        <dep id="Object" type="i" /> 
+      </script>
+      <script name="com/milkmangames/nativeextensions/ios/GameCenter" mod="1434176228248" signatureChecksum="922560751" >
+        <def id="com.milkmangames.nativeextensions.ios:GameCenter" /> 
+        <dep id="com.milkmangames.nativeextensions.ios:GCPlayerData" type="e" /> 
+        <dep id="com.milkmangames.nativeextensions.ios.events:GameCenterErrorEvent" type="e" /> 
+        <dep id="ArgumentError" type="e" /> 
+        <dep id="JSON" type="e" /> 
+        <dep id="flash.display:BitmapData" type="e" /> 
+        <dep id="com.milkmangames.nativeextensions.ios:GCImageSize" type="e" /> 
+        <dep id="com.milkmangames.nativeextensions.ios:GCChallengeInfo" type="e" /> 
+        <dep id="Math" type="e" /> 
+        <dep id="com.milkmangames.nativeextensions.ios:GCAchievementData" type="e" /> 
+        <dep id="flash.external:ExtensionContext" type="e" /> 
+        <dep id="com.milkmangames.nativeextensions.ios:GCAchievementProgress" type="e" /> 
+        <dep id="Error" type="e" /> 
+        <dep id="com.milkmangames.nativeextensions.ios.events:GameCenterEvent" type="e" /> 
+        <dep id="com.milkmangames.nativeextensions.ios:GCLeaderboardData" type="e" /> 
+        <dep id="com.milkmangames.nativeextensions.ios:GCPlayerScope" type="e" /> 
+        <dep id="com.milkmangames.nativeextensions.ios:GCScoreData" type="e" /> 
+        <dep id="Date" type="e" /> 
+        <dep id="__AS3__.vec:Vector" type="e" /> 
+        <dep id="flash.events:StatusEvent" type="e" /> 
+        <dep id="flash.utils:getDefinitionByName" type="e" /> 
+        <dep id="com.milkmangames.nativeextensions.ios:GCChallengeType" type="e" /> 
+        <dep id="com.milkmangames.nativeextensions.ios:GCTimeScope" type="e" /> 
+        <dep id="com.milkmangames.nativeextensions.ios:GCSignatureVerificationData" type="e" /> 
+        <dep id="com.milkmangames.nativeextensions.ios:GCPlayerData" type="s" /> 
+        <dep id="com.milkmangames.nativeextensions.ios.events:GameCenterErrorEvent" type="s" /> 
+        <dep id="flash.display:BitmapData" type="s" /> 
+        <dep id="com.milkmangames.nativeextensions.ios:GCChallengeInfo" type="s" /> 
+        <dep id="com.milkmangames.nativeextensions.ios:GCAchievementData" type="s" /> 
+        <dep id="flash.external:ExtensionContext" type="s" /> 
+        <dep id="com.milkmangames.nativeextensions.ios:GCAchievementProgress" type="s" /> 
+        <dep id="Error" type="s" /> 
+        <dep id="com.milkmangames.nativeextensions.ios.events:GameCenterEvent" type="s" /> 
+        <dep id="com.milkmangames.nativeextensions.ios:GCScoreData" type="s" /> 
+        <dep id="Date" type="s" /> 
+        <dep id="flash.events:StatusEvent" type="s" /> 
+        <dep id="flash.display:Stage" type="s" /> 
+        <dep id="com.milkmangames.nativeextensions.ios:GCSignatureVerificationData" type="s" /> 
+        <dep id="AS3" type="n" /> 
+        <dep id="flash.events:EventDispatcher" type="i" /> 
+        <dep id="Object" type="i" /> 
+      </script>
+      <script name="com/milkmangames/nativeextensions/ios/GCTimeScope" mod="1355376307014" signatureChecksum="3811589384" >
+        <def id="com.milkmangames.nativeextensions.ios:GCTimeScope" /> 
+        <dep id="AS3" type="n" /> 
+        <dep id="Object" type="i" /> 
+      </script>
+      <digests>
+        <digest type="SHA-256" signed="false" value="ba31d9bf6a7b906b4c9df1e7ca6f40b0630d5bf73fa999db911616966fa9adfb"   />
+      </digests>
+    </library>
+  </libraries>
+  <files>
+  </files>
+</swc>
